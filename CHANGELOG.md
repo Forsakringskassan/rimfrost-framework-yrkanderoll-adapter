@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-framework-yrkanderoll-adapter.
 
+## 0.0.2 (2026-03-13)
+
+### Bug Fixes
+
+-  fix parent pom ([ba02f](https://github.com/Forsakringskassan/rimfrost-framework-yrkanderoll-adapter/commit/ba02f1fae2de409) Ulf Slunga)  
+
 ## 0.0.1 (2026-03-13)
 
 ### Bug Fixes
