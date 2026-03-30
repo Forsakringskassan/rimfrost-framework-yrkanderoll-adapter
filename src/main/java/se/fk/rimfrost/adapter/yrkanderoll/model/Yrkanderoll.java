@@ -1,4 +1,4 @@
-package se.fk.rimfrost.framework.yrkanderoll.model;
+package se.fk.rimfrost.adapter.yrkanderoll.model;
 
 import org.immutables.value.Value;
 import java.util.UUID;

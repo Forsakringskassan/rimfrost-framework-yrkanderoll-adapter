@@ -1,4 +1,4 @@
-package se.fk.rimfrost.framework.yrkanderoll.adapter;
+package se.fk.rimfrost.adapter.yrkanderoll.adapter;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;
@@ -9,7 +9,7 @@ import org.eclipse.microprofile.config.inject.ConfigProperty;
 import org.glassfish.jersey.apache.connector.ApacheConnectorProvider;
 import org.glassfish.jersey.client.ClientConfig;
 import org.glassfish.jersey.client.proxy.WebResourceFactory;
-import se.fk.rimfrost.framework.yrkanderoll.model.Yrkanderoll;
+import se.fk.rimfrost.adapter.yrkanderoll.model.Yrkanderoll;
 import se.fk.rimfrost.jaxrsspec.controllers.generatedsource.YrkanderollControllerApi;
 import java.util.UUID;
 

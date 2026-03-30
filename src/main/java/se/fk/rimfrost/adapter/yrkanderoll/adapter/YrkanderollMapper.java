@@ -1,8 +1,8 @@
-package se.fk.rimfrost.framework.yrkanderoll.adapter;
+package se.fk.rimfrost.adapter.yrkanderoll.adapter;
 
 import jakarta.enterprise.context.ApplicationScoped;
-import se.fk.rimfrost.framework.yrkanderoll.model.ImmutableYrkanderoll;
-import se.fk.rimfrost.framework.yrkanderoll.model.Yrkanderoll;
+import se.fk.rimfrost.adapter.yrkanderoll.model.ImmutableYrkanderoll;
+import se.fk.rimfrost.adapter.yrkanderoll.model.Yrkanderoll;
 import se.fk.rimfrost.jaxrsspec.controllers.generatedsource.model.GetYrkanderollResponse;
 
 @ApplicationScoped
